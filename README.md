@@ -4,3 +4,4 @@ Run the SkSt2023 app file on MATLAB.
 Load individual scan or volume.
 Hit start and refine results by tuning the skull and brain thresholds.
 Other options include orienting the volume and processing individual slices interactively.
+[The GUI is not fully implemented]
